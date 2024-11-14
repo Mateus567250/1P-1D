@@ -1,8 +1,19 @@
 body{
-background-color: darkblue;
+background-color: white;
 color: rgb(19, 18, 18);
 }
 h3{
     text-align: center;
 }
-.primeiro
+.primeiro-titulo{
+color:black;
+text-align: center;
+}
+a{
+     color:white;
+}
+header{
+background-color: brown;}
+
+
+
